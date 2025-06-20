@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1742731145026,
+      "tag": "0000_unknown_silhouette",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1744563538726,
+      "tag": "0001_tan_pride",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1744563785717,
+      "tag": "0002_sweet_synch",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1744634837488,
+      "tag": "0003_brief_kinsey_walden",
+      "breakpoints": true
+    }
+  ]
+}
