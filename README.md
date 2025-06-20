@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
+![image alt](https://github.com/Ishaa111/Student_Attendance_Tracking_App/blob/b250c444c30aa481a0b003696ad6af4695b58f74/Screenshot%202025-05-25%20035444.png)
 First, run the development server:
 
 ```bash
